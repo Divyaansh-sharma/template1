@@ -1,0 +1,52 @@
+.container{
+    background-color: blue;
+    height: 90vh;
+    width: 50vw;
+    border-radius: 8px;
+}
+
+
+#head{
+    display: flex;
+    background-color: aqua;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+#p1{
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#cross{
+    font-size: 20px;
+    margin-left: 90vh;
+   
+}
+
+#second{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 610px;
+    display: flex;
+}
+
+#p2{
+    font-size: 15px;
+    margin-left: 6px;
+}
+
+#ic{
+    font-size: 20px;
+    color: orange;
+    margin-left: 8px;
+    
+    border-radius: 7px;
+}
+
+p3{
+    margin-left: 8px;
+}
